@@ -1,5 +1,4 @@
 # AndroidSQLInjection
-SQL 注入DEMO
 万能登录钥匙
 
 - `username' or '1'='1`
